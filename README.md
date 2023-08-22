@@ -1,6 +1,7 @@
 # Hello, I'm John Driscoll! 👋
 
-I'm a digital marketer and web developer with a passion for creating engaging content and robust web solutions. I'm looking for full or part time work or Freelance oportunities.
+I'm a web developer and a digital marketer with a passion for creating engaging content and robust web solutions. 
+I'm looking for full or part time work or Freelance oportunities.
 
 ## What I'm Working On 🚀
 - Building my social media presence for digital marketing roles
