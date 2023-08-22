@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, I'm John Driscoll! 👋
 
-<!--
-**jdwd40/jdwd40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a digital marketer and web developer with a passion for creating engaging content and robust web solutions. I'm looking for full or part time work or Freelance oportunities.
 
-Here are some ideas to get you started:
+## What I'm Working On 🚀
+- Building my social media presence for digital marketing roles
+- Collaborating on web development projects
+- Exploring freelance opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 🛠️
+- **Digital Marketing:** Social media content creation, SEO, Analytics
+- **Web Development:** HTML, CSS, JavaScript, React.js, Node.js
+- **Tools:** GitHub, VS Code
+
+## Let's Connect! 🌐
+- LinkedIn: [John Driscoll on LinkedIn](https://www.linkedin.com/in/john-driscoll-188462108/)
+- Portfolio: [johnwdriscoll.co.uk](http://www.johnwdriscoll.co.uk)
+- Email: [johnwdriscoll1@gmail.com](mailto:johnwdriscoll1@gmail.com)
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
