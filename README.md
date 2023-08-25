@@ -1,4 +1,4 @@
-"Hello, I'm John Driscoll! 👋
+Hello, I'm John Driscoll! 👋
 
 From the bustling aisles of a warehouse to tech support, and from delivering fresh produce to self-learning web development during illness, my journey has been rich and diverse. I'm a web developer with a passion for crafting robust web solutions and engaging digital content. I'm eager to bring my resilience, creativity, and problem-solving skills to full or part-time work or freelance opportunities.
 
@@ -25,5 +25,5 @@ From working in a warehouse to being promoted to tech support, and then transiti
 - [Portfolio: johnwdriscoll.co.uk](https://www.johnwdriscoll.co.uk)
 - Email: johnwdriscoll1@gmail.com
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or learn more about my unique journey. Let's build something extraordinary together!"
+Feel free to explore my repositories and reach out if you'd like to collaborate or learn more about my unique journey. Let's build something extraordinary together!
 
