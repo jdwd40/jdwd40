@@ -20,4 +20,5 @@
 
 **Background:**
 Transitioned from roles in warehouse, tech support, and delivery driving to web development, a field discovered during a period of illness and family care. Despite these challenges, my passion for coding and web development has been a constant. Over the past 3 years, this passion has driven me to continue learning and improving my skills in the field, even in the face of intermittent opportunities to fully immerse myself in coding. This self-driven pursuit of knowledge and skill in web development stands as a testament to my commitment and love for this ever-evolving field.
+
 ---
