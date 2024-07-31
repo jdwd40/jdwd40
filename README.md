@@ -4,7 +4,7 @@
 
 ---
 
-**Experience:** 3 years (intermittent) in web development.
+**Experience:** 4 years in web development.
 
 **Current Status:**
 - Actively learning and improving in web development.
