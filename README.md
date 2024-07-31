@@ -20,6 +20,6 @@
 
 **Background:**
 
-Transitioned from roles in warehouse, tech support, and delivery driving to web development, a field discovered during a period of illness and family care. Despite these challenges, my passion for coding and web development has been a constant. Over the past 3 years, this passion has driven me to continue learning and improving my skills in the field, even in the face of intermittent opportunities to fully immerse myself in coding. This self-driven pursuit of knowledge and skill in web development stands as a testament to my commitment and love for this ever-evolving field.
+I've worn a few hats in my life – from warehouse worker and tech support to delivery driver.  But four years ago, I discovered the world of web development, and it's been a game-changer. I've been on a rollercoaster of learning and growth, squeezing in coding whenever I could, even when life threw curveballs.  It hasn't always been easy, but the passion for building websites and apps keeps me going. I'm excited to see where this journey takes me next!.
 
 ---
