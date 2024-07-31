@@ -13,10 +13,10 @@
 
 **Skills:**
 - **Web Development:** HTML, CSS, JavaScript, Java, Python, React.js, Node.js. Chakra UI, Tailwind CSS.
-- **Digital Marketing:** Social media, SEO, Analytics. 
+- **Digital Marketing:** Social Media, SEO, Analytics. 
 - **Tools:** GitHub, VS Code, GitHub Actions.
-- **Tech Skills** Experienced in PC tech, networkinging, security, proficient with Windows and Linux Servers, and familiar with cloud computing; previously Microsoft Certified
-- **Life Skills:** Resilience, adaptability, continuous learning, communication skills.
+- **Tech Skills** Experienced in PC Tech, Networking, Security, Proficient with Windows and Linux Servers; previously Microsoft Certified, Familiar with Cloud Computing(VPS);
+- **Life Skills:** Resilience, Adaptability, Continuous Learning, Communication Skills, Sence of Humour.
 
 **Background:**
 
