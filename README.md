@@ -1,4 +1,4 @@
-### John Driscoll 👋
+### John Driscoll 
 
 **Web Developer | Tech Enthusiast**
 
