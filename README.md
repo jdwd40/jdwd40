@@ -6,7 +6,7 @@
 
 **Current Status:**
 - Open to part-time employment and freelance opportunities.
-- Building web development projects while balancing caring responsibilities.
+- Building personal web development projects while balancing caring responsibilities.
 
 **Skills:**
 - **Web Development:** JavaScript, Java, Python, Chakra UI, Tailwind CSS.
