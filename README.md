@@ -18,4 +18,5 @@
 **Background:**
 
 I have had a variety of jobs throughout my life, including delivery driver, tech support, and warehouse worker.  However, I stumbled upon the realm of web development a few years ago, and it has changed my life. Despite life's unexpected turns, I've been on a learning and development rollercoaster, fitting in coding whenever I could.  Although it hasn't always been simple, my enthusiasm for creating apps and websites keeps me going.
+
 ---
